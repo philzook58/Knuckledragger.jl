@@ -2,3 +2,11 @@ https://julialang.org/contribute/developing_package/
 
 
 pkg> conda pip_add knuckledragger@https://github.com/philzook58/knuckledragger.git
+
+There isn't much reason to rebuild the library entirely in Julia so far as I know, as intercommunication with Z3 is at it's core and a performance bottleneck, and the julia bindings to z3 are not as feature rich as the python ones.
+
+The increased capability of metaprogramming and multiple dispatch in Julia may open up some interesting designs.
+
+Perhaps high perfromance theorme proving code can be written.
+
+Julia has an interesting community of people and applications. Open to new ideas.

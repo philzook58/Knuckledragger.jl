@@ -1,0 +1,4 @@
+https://julialang.org/contribute/developing_package/
+
+
+pkg> conda pip_add knuckledragger@https://github.com/philzook58/knuckledragger.git

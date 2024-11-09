@@ -1,0 +1,3 @@
+
+[pip.deps]
+knuckledragger = "@https://github.com/philzook58/knuckledragger.git"
